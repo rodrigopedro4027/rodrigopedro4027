@@ -2,7 +2,7 @@
    </br>
 <ul">
   <li>💼 Atualmente trabalho como Web Designer</li>
-  <li>📖 Estudando Sistemas da Informação</li>
+  <li>🎓 Formado em Sistemas da Informação</li>
   </br>
 </ul>
 
